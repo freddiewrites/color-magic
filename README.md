@@ -7,7 +7,7 @@ A Sketch plugin that imports color variables from CSS or JSON files into your Sk
 
 ## Installation
 
-1. [Download the latest release](https://github.com/freddieharrison/color-magic/releases/latest)
+1. [Download the latest release](https://github.com/freddiewrites/color-magic/releases/latest)
 2. Unzip and double-click `ColorMagic.sketchplugin` to install
 
 ## Usage
