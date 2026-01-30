@@ -1,0 +1,22 @@
+{
+  "name": "Color Magic",
+  "identifier": "com.freddieharrison.color-magic",
+  "version": "1.0.0",
+  "description": "Import color variables from CSS or JSON files into your Sketch document as Color Variables (Swatches)",
+  "author": "Freddie Harrison",
+  "homepage": "https://github.com/freddiewrites/color-magic",
+  "compatibleVersion": "70",
+  "icon": "icon.png",
+  "commands": [
+    {
+      "name": "Import Colors...",
+      "identifier": "import-colors",
+      "script": "import-colors.js",
+      "handler": "onImportColors"
+    }
+  ],
+  "menu": {
+    "title": "Color Magic",
+    "items": ["import-colors"]
+  }
+}

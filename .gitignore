@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Sketch
+*.sketch.sb-*
+
+# Test files
+test-*.css
+test-*.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node (if using skpm in future)
+node_modules/
+npm-debug.log
