@@ -20,3 +20,6 @@ test-*.json
 # Node (if using skpm in future)
 node_modules/
 npm-debug.log
+
+# AI assistant context
+CLAUDE.md
