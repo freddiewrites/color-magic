@@ -2,7 +2,8 @@
 
 A Sketch plugin that imports color variables from CSS or JSON files into your Sketch document as Color Variables (Swatches).
 
-![Color Magic Demo](demo.gif)
+![Color Magic Demo](https://github.com/user-attachments/assets/7e50e787-5f36-4253-a0a3-0df7f1d11a25)
+
 
 ## Installation
 
